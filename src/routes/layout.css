@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+nav {
+    text-align: left;
+}
+
+body{
+    text-align: center;
+    background-color: light-grey;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    text-align: center;
+}
